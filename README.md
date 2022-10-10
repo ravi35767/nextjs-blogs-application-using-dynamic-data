@@ -35,3 +35,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 "# nextjs-blogs-application-using-dynamic-data" 
 "# nextjs-blogapp-getstaticpath-getstatticprops" 
 "# nextjs-blogapp-getstaticpath-getstatticprops" 
+"# nextjs-blogapp-getstaticpath-getstatticprops" 
