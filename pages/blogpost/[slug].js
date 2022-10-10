@@ -30,6 +30,8 @@ const slug = (props) => {
             </div>
         </main>
     </div>;
+
+    
 };
 export async function getServerSideProps(context) {
   // console.log(context.query)
